@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dania\\Desktop\\LessonC-\\Examples\\Example001_HelloConcole\\Example001_HelloConcole.csproj",
+      "projectUniqueName": "C:\\Users\\Dania\\Desktop\\Examples\\Example001_HelloConcole\\Example001_HelloConcole.csproj",
       "projectName": "Example001_HelloConcole",
-      "projectPath": "C:\\Users\\Dania\\Desktop\\LessonC-\\Examples\\Example001_HelloConcole\\Example001_HelloConcole.csproj",
+      "projectPath": "C:\\Users\\Dania\\Desktop\\Examples\\Example001_HelloConcole\\Example001_HelloConcole.csproj",
       "packagesPath": "C:\\Users\\Dania\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dania\\Desktop\\LessonC-\\Examples\\Example001_HelloConcole\\obj\\",
+      "outputPath": "C:\\Users\\Dania\\Desktop\\Examples\\Example001_HelloConcole\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dania\\AppData\\Roaming\\NuGet\\NuGet.Config"
