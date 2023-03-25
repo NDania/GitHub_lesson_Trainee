@@ -2,3 +2,5 @@
 string username = Console.ReadLine();
 Console.Write("Привет, ");
 Console.Write(username);
+Console.Write("До свидания!");
+Console.Write(username);
